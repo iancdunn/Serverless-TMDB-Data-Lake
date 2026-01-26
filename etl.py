@@ -40,6 +40,7 @@ def load_data(rows):
     #Generates a static view for quick consumption
     top_5 = df.head(5)[['rank', 'title', 'vote_average']]
     top_5 = top_5.rename(columns = {'rank': 'Rank', 'title': 'Movie', 'vote_average': 'Rating'})
+    top_5['Rating'] = top_5['Rating'].apply(lambda x: 'N/A' if x == 0.0 else x)
     
     with open('LATEST_UPDATE.md', 'w') as f:
         f.write(f"# Daily Movie Trends: {rows[0]['date']}\n\n")
@@ -50,3 +51,4 @@ if __name__ == "__main__":
     raw_data = extract_data()
     clean_data = transform_data(raw_data, curr_date)
     load_data(clean_data)
+
