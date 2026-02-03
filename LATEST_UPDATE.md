@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-02-02
+# Daily Movie Trends: 2026-02-03
 
 |   Rank | Movie             |   Rating |
 |-------:|:------------------|---------:|
-|      1 | The Wrecking Crew |      6.5 |
-|      2 | Anaconda          |      5.9 |
-|      3 | Zootopia 2        |      7.6 |
-|      4 | Send Help         |      7.1 |
-|      5 | Iron Lung         |      7.8 |
+|      1 | The Housemaid     |      7.1 |
+|      2 | Hamnet            |      7.8 |
+|      3 | The Wrecking Crew |      6.5 |
+|      4 | Zootopia 2        |      7.6 |
+|      5 | Iron Lung         |      7.9 |
