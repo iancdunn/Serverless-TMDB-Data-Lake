@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-02-03
+# Daily Movie Trends: 2026-02-04
 
-|   Rank | Movie             |   Rating |
-|-------:|:------------------|---------:|
-|      1 | The Housemaid     |      7.1 |
-|      2 | Hamnet            |      7.8 |
-|      3 | The Wrecking Crew |      6.5 |
-|      4 | Zootopia 2        |      7.6 |
-|      5 | Iron Lung         |      7.9 |
+|   Rank | Movie                                |   Rating |
+|-------:|:-------------------------------------|---------:|
+|      1 | The Housemaid                        |      7.1 |
+|      2 | Hamnet                               |      7.8 |
+|      3 | Even If This Love Disappears Tonight |      7.5 |
+|      4 | We Bury the Dead                     |      6.2 |
+|      5 | The Plague                           |      7.8 |
