@@ -1,9 +1,9 @@
-# Daily Movie Trends: 2026-02-05
+# Daily Movie Trends: 2026-02-06
 
 |   Rank | Movie                                |   Rating |
 |-------:|:-------------------------------------|---------:|
 |      1 | The Housemaid                        |      7.1 |
-|      2 | Relationship Goals                   |      3.8 |
+|      2 | The Muppet Show                      |      6.4 |
 |      3 | Hamnet                               |      7.7 |
-|      4 | Even If This Love Disappears Tonight |      7.3 |
-|      5 | The Muppet Show                      |      7.1 |
+|      4 | Relationship Goals                   |      4.3 |
+|      5 | Even If This Love Disappears Tonight |      6.8 |
